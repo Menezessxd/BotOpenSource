@@ -1,4 +1,4 @@
-// made with ❤ by guilherme
+// made with ❤ by salgado
 
 /* Não altere o script se você não souber o que está fazendo. Para configurá-lo, vá até o final e edite as opções, explicadas detalhadamente. */
 
